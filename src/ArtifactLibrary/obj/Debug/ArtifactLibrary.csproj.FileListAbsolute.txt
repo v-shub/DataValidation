@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\bin\Debug\ArtifactLibrary.dll
+C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\bin\Debug\ArtifactLibrary.pdb
+C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\obj\Debug\ArtifactLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\obj\Debug\ArtifactLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\obj\Debug\ArtifactLibrary.dll
+C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\obj\Debug\ArtifactLibrary.pdb

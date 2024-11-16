@@ -1,0 +1,17 @@
+﻿<Window x:Class="Artifacts.CurrencyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Artifacts"
+        mc:Ignorable="d"
+        Title="CurrencyWindow" Height="286" Width="521">
+    <Grid>
+        <Button x:Name="SetCurrencyButton" Content="Set" HorizontalAlignment="Left" Height="26" Margin="336,166,0,0" VerticalAlignment="Top" Width="79" Click="SetCurrencyButton_Click"/>
+        <ComboBox x:Name="CurrencyComboBox" HorizontalAlignment="Left" Height="22" Margin="75,110,0,0" VerticalAlignment="Top" Width="153" SelectionChanged="CurrencyComboBox_SelectionChanged"/>
+        <TextBox x:Name="ExchangeRateBox" HorizontalAlignment="Left" Height="22" Margin="283,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" Text="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="24" Margin="75,81,0,0" TextWrapping="Wrap" Text="Currency&#x9;:&#x9;&#x9;&#x9;    Exchange rate against the ruble:" VerticalAlignment="Top" Width="410"/>
+        <CheckBox x:Name="ConvertCurrencyCheckBox" Content="Use for artifact price" HorizontalAlignment="Left" Height="26" Margin="75,171,0,0" VerticalAlignment="Top" Width="169"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,56 @@
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\ArtifactWindow.g.cs
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts_MarkupCompile.cache
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts_MarkupCompile.lref
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\bin\Debug\net6.0-windows\Artifacts.exe
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\bin\Debug\net6.0-windows\Artifacts.deps.json
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\bin\Debug\net6.0-windows\Artifacts.runtimeconfig.json
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\bin\Debug\net6.0-windows\Artifacts.dll
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\bin\Debug\net6.0-windows\Artifacts.pdb
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\ArtifactWindow.baml
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.g.resources
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.AssemblyInfo.cs
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.dll
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\refint\Artifacts.dll
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.pdb
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.genruntimeconfig.cache
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\ref\Artifacts.dll
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\CurrencyWindow.g.cs
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\bin\Debug\net6.0-windows\ArtifactLibrary.dll
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\bin\Debug\net6.0-windows\ArtifactLibrary.pdb
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\CurrencyWindow.baml
+C:\Users\user\Desktop\Shubina_24is11-2\Artifacts\obj\Debug\net6.0-windows\Artifacts.csproj.CopyComplete
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\ArtifactWindow.g.cs
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\CurrencyWindow.g.cs
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts_MarkupCompile.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts_MarkupCompile.lref
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\refint\Artifacts.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.pdb
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\bin\Debug\net6.0-windows\Artifacts.exe
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\bin\Debug\net6.0-windows\Artifacts.deps.json
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\bin\Debug\net6.0-windows\Artifacts.runtimeconfig.json
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\bin\Debug\net6.0-windows\Artifacts.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\bin\Debug\net6.0-windows\Artifacts.pdb
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\bin\Debug\net6.0-windows\ArtifactLibrary.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\bin\Debug\net6.0-windows\ArtifactLibrary.pdb
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\ArtifactWindow.baml
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\CurrencyWindow.baml
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.g.resources
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.csproj.Up2Date
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\ref\Artifacts.dll
