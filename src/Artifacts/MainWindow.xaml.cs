@@ -1,6 +1,7 @@
 ﻿using ArtifactLibrary;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,15 +23,27 @@ namespace Artifacts
     public partial class MainWindow : Window
     {
         List<Artifact> artifacts = new List<Artifact>();
+        int lastCurrencyIndex = 0;
+        double[] exchangeRates = { 1, 100, 105.71, 1.18, 0.26, 112.58, 127.08 };
         public List<Artifact> Artifacts {
             get { return artifacts; }
             set { artifacts = value; }
+        }
+        public int LastCurrencyIndex
+        {
+            get { return lastCurrencyIndex; }
+            set { lastCurrencyIndex = value; }
+        }
+        public double[] ExchangeRates
+        {
+            get { return exchangeRates; }
+            set { exchangeRates = value; }
         }
         public MainWindow()
         {
             InitializeComponent();
             Artifacts.Add(new Artifact("AAA", 10, -5, 23, 100, "r", "Gold", "Anemo"));
-            Artifacts.Add(new Artifact("BBB", -3, 20, -23, 30.5, "$", "Silver", "Geo"));
+            Artifacts.Add(new Artifact("BBB", -3, 20, -23, 30.5, "r", "Silver", "Geo"));
             ArtifactGrid.ItemsSource = Artifacts;
         }
 
@@ -57,7 +70,14 @@ namespace Artifacts
 
         private void RestartButton_Click(object sender, RoutedEventArgs e)
         {
-
+            Artifacts = new List<Artifact>
+            {
+                new Artifact("AAA", 10, -5, 23, 100, "r", "Gold", "Anemo"),
+                new Artifact("BBB", -3, 20, -23, 30.5, "r", "Silver", "Geo")
+            };
+            LastCurrencyIndex = 0;
+            ExchangeRates = new double[] { 1, 100, 105.71, 1.18, 0.26, 112.58, 127.08 };
+            ArtifactGrid.ItemsSource = Artifacts;
         }
 
         private void CurrencyButton_Click(object sender, RoutedEventArgs e)
