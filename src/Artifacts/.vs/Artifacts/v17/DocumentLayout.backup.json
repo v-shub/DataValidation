@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Modules\\DataValidation\\src\\Artifacts\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\modules\\datavalidation\\src\\artifacts\\artifactwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|solutionrelative:artifactwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\modules\\datavalidation\\src\\artifacts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\modules\\datavalidation\\src\\artifacts\\currencywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|solutionrelative:currencywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\modules\\datavalidation\\src\\artifacts\\artifactwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|solutionrelative:artifactwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7AA6B98-239B-4675-BC87-989487E531E3}|Artifacts.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\modules\\datavalidation\\src\\artifacts\\currencywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,15 +50,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ArtifactWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Modules\\DataValidation\\src\\Artifacts\\ArtifactWindow.xaml.cs",
               "RelativeDocumentMoniker": "ArtifactWindow.xaml.cs",
               "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Modules\\DataValidation\\src\\Artifacts\\ArtifactWindow.xaml.cs",
               "RelativeToolTip": "ArtifactWindow.xaml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDIAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T15:18:38.83Z"
+              "WhenOpened": "2024-11-16T15:18:38.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CurrencyWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Modules\\DataValidation\\src\\Artifacts\\CurrencyWindow.xaml.cs",
               "RelativeDocumentMoniker": "CurrencyWindow.xaml.cs",
@@ -92,18 +93,17 @@
               "RelativeToolTip": "CurrencyWindow.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAtwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T09:19:51.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T09:19:51.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Modules\\DataValidation\\src\\Artifacts\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Modules\\DataValidation\\src\\Artifacts\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwBsAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T09:19:41.115Z",
               "EditorCaption": ""

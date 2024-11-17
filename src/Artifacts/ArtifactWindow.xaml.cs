@@ -54,7 +54,7 @@ namespace Artifacts
             else
             {
                 UserArtifact.Price = 0;
-                UserArtifact.Currency = "r";
+                UserArtifact.Currency = owner.Currencies[owner.LastCurrencyIndex];
             }
             string impactPattern = @"^-?\d+\s?%?$";
             if (Regex.IsMatch(AttackImpactBox.Text, impactPattern))
