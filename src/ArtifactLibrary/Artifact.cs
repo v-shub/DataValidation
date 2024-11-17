@@ -36,7 +36,7 @@ namespace ArtifactLibrary
         }
         public double Price
         {
-            get { return price; }
+            get { return Math.Round(price, 2); }
             set { price = value; }
         }
         public string Currency
@@ -68,7 +68,7 @@ namespace ArtifactLibrary
         }
         public void ChangeCurrency(double exchRate, string newCurr)
         {
-            Price /= exchRate;
+            price /= exchRate;
             Currency = newCurr;
         }
     }

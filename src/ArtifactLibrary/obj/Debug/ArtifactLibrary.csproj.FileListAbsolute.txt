@@ -4,3 +4,9 @@ C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\obj\Debug\ArtifactLibrary
 C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\obj\Debug\ArtifactLibrary.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\obj\Debug\ArtifactLibrary.dll
 C:\Users\user\Desktop\Shubina_24is11-2\ArtifactLibrary\obj\Debug\ArtifactLibrary.pdb
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\ArtifactLibrary\bin\Debug\ArtifactLibrary.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\ArtifactLibrary\bin\Debug\ArtifactLibrary.pdb
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\ArtifactLibrary\obj\Debug\ArtifactLibrary.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\ArtifactLibrary\obj\Debug\ArtifactLibrary.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\ArtifactLibrary\obj\Debug\ArtifactLibrary.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\ArtifactLibrary\obj\Debug\ArtifactLibrary.pdb

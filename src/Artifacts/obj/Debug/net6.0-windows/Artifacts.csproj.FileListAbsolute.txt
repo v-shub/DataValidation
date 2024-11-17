@@ -54,3 +54,4 @@ C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artif
 C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.csproj.Up2Date
 C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.genruntimeconfig.cache
 C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\ref\Artifacts.dll
+C:\Users\victo\OneDrive\Рабочий стол\Modules\DataValidation\src\Artifacts\obj\Debug\net6.0-windows\Artifacts.sourcelink.json

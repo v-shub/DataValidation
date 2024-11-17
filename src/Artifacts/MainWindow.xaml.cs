@@ -25,6 +25,12 @@ namespace Artifacts
         List<Artifact> artifacts = new List<Artifact>();
         int lastCurrencyIndex = 0;
         double[] exchangeRates = { 1, 100, 105.71, 1.18, 0.26, 112.58, 127.08 };
+        string[] currencies = { "r", "$", "euro", "Rs", "f", "Fr", "Ps" };
+        public string[] Currencies
+        {
+            get { return currencies; }
+            set { currencies = value; }
+        }
         public List<Artifact> Artifacts {
             get { return artifacts; }
             set { artifacts = value; }

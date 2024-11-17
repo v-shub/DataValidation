@@ -40,6 +40,7 @@ namespace Artifacts
 
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
+            MainWindow owner = (MainWindow)this.Owner;
             Artifact userArtifact = new Artifact();
             UserArtifact.Name = NameBox.Text;
             string pricePattern = @"^\d+(,\d\d)?\s(r|euro|\$|Rs|f|Fr|Ps)$";
@@ -47,7 +48,8 @@ namespace Artifacts
             {
                 string[] priceParts = PriceBox.Text.Split();
                 UserArtifact.Price = Convert.ToDouble(priceParts[0]);
-                UserArtifact.Currency = priceParts[1];
+                int thisCurrencyIndex = Array.IndexOf(owner.Currencies, priceParts[1]);
+                UserArtifact.ChangeCurrency(owner.ExchangeRates[owner.LastCurrencyIndex] / owner.ExchangeRates[thisCurrencyIndex], owner.Currencies[owner.LastCurrencyIndex]);
             }
             else
             {
@@ -78,7 +80,6 @@ namespace Artifacts
                 UserArtifact.HpImpact = 0;
             UserArtifact.Material = MaterialBox.Text;
             UserArtifact.Element = ElementBox.Text;
-            MainWindow owner = (MainWindow)this.Owner;
             switch (funcNum)
             {
                 case 1:

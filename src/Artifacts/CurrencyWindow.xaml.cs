@@ -21,16 +21,12 @@ namespace Artifacts
     /// </summary>
     public partial class CurrencyWindow : Window
     {
-        string[] currencies = { "r", "$", "euro", "Rs", "f", "Fr", "Ps" };
-        public string[] Currencies
-        {
-            get { return currencies; }
-            set { currencies = value; }
-        }
+        
         public CurrencyWindow()
         {
             InitializeComponent();
-            CurrencyComboBox.ItemsSource = Currencies;
+            string[] currencies = { "r", "$", "euro", "Rs", "f", "Fr", "Ps" };
+            CurrencyComboBox.ItemsSource = currencies;
         }
 
         private void SetCurrencyButton_Click(object sender, RoutedEventArgs e)
@@ -43,7 +39,7 @@ namespace Artifacts
             if (ConvertCurrencyCheckBox.IsChecked == true)
             {
                 foreach (Artifact artifact in owner.Artifacts)
-                    artifact.ChangeCurrency(exchangeRate / owner.ExchangeRates[owner.LastCurrencyIndex], Currencies[currIndex]);
+                    artifact.ChangeCurrency(exchangeRate / owner.ExchangeRates[owner.LastCurrencyIndex], owner.Currencies[currIndex]);
                 owner.LastCurrencyIndex = currIndex;
             }
             this.Close();
